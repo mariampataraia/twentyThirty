@@ -85,7 +85,7 @@ h3 {
 
 .MenuCategory {
     display: block;
-    margin: 30px 0;
+    margin: 35px 0;
     width: 500px;
     max-width: 100%;
     height: 20vh;
@@ -97,7 +97,49 @@ h3 {
     text-decoration: none;
     width: 500px;
     max-width: 100%;
-    color: #3D405B;
+    color: #F4F1DE;
+    /* background: url("../Fish/images/beef_khinkali.png") center/cover no-repeat #F2CC8F; */
+}
+
+.appetizers {
+    background: url("../Fish/images/chvishtari.png") center/cover no-repeat #F2CC8F;
+}
+
+.baked_dishes {
+    background: url("../Fish/images/adjaruli.png") center/cover no-repeat #F2CC8F;
+}
+
+.bar {
+    background: url("../Fish/images/beef_khinkali.png") center/cover no-repeat #F2CC8F;
+}
+
+.dessert {
+    background: url("../Fish/images/muffins.JPG") center/cover no-repeat #F2CC8F;
+}
+
+.garnish {
+    background: url("../Fish/images/fries.png") center/cover no-repeat #F2CC8F;
+
+}
+
+.khinkali {
+    background: url("../Fish/images/khinkali_generic.png") center/cover no-repeat #F2CC8F;
+}
+
+.mainDishes {
+    background: url("../Fish/images/trout.png") center/cover no-repeat #F2CC8F;
+}
+
+.pasta {
+    background: url("../Fish/images/pasta_tomato.png") center/cover no-repeat #F2CC8F;
+}
+
+.salads {
+    background: url("../Fish/images/caesar_salad.png") center/cover no-repeat #F2CC8F;
+}
+
+.soups {
+    background: url("../Fish/images/mushroom_creamsoup.png") center/cover no-repeat #F2CC8F;
 }
 
 .menuType {
