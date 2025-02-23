@@ -39,7 +39,7 @@ header {
     max-width: 93%;
     width: 500px;
     height: 30vh;
-    background: url(/images/baner.jpg) center/cover no-repeat;
+    background: url(images/baner.jpg) center/cover no-repeat;
     display: flex;
     align-items: end;
     justify-content: flex-end;
@@ -102,44 +102,44 @@ h3 {
 }
 
 .appetizers {
-    background: url("/images/chvishtari.png") center/cover no-repeat #F2CC8F;
+    background: url("images/chvishtari.png") center/cover no-repeat #F2CC8F;
 }
 
 .baked_dishes {
-    background: url("/images/adjaruli.png") center/cover no-repeat #F2CC8F;
+    background: url("images/adjaruli.png") center/cover no-repeat #F2CC8F;
 }
 
 .bar {
-    background: url("../Fish/images/beef_khinkali.png") center/cover no-repeat #F2CC8F;
+    background: url("images/beef_khinkali.png") center/cover no-repeat #F2CC8F;
 }
 
 .dessert {
-    background: url("../Fish/images/muffins.JPG") center/cover no-repeat #F2CC8F;
+    background: url("images/muffins.JPG") center/cover no-repeat #F2CC8F;
 }
 
 .garnish {
-    background: url("../Fish/images/fries.png") center/cover no-repeat #F2CC8F;
+    background: url("images/fries.png") center/cover no-repeat #F2CC8F;
 
 }
 
 .khinkali {
-    background: url("../Fish/images/khinkali_generic.png") center/cover no-repeat #F2CC8F;
+    background: url("images/khinkali_generic.png") center/cover no-repeat #F2CC8F;
 }
 
 .mainDishes {
-    background: url("../Fish/images/trout.png") center/cover no-repeat #F2CC8F;
+    background: url("images/trout.png") center/cover no-repeat #F2CC8F;
 }
 
 .pasta {
-    background: url("../Fish/images/pasta_tomato.png") center/cover no-repeat #F2CC8F;
+    background: url("images/pasta_tomato.png") center/cover no-repeat #F2CC8F;
 }
 
 .salads {
-    background: url("../Fish/images/caesar_salad.png") center/cover no-repeat #F2CC8F;
+    background: url("images/caesar_salad.png") center/cover no-repeat #F2CC8F;
 }
 
 .soups {
-    background: url("../Fish/images/mushroom_creamsoup.png") center/cover no-repeat #F2CC8F;
+    background: url("images/mushroom_creamsoup.png") center/cover no-repeat #F2CC8F;
 }
 
 .menuType {
