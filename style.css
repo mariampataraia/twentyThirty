@@ -26,14 +26,18 @@ h1 {
 
 h2 {
     margin: 20px 20px;
-    margin-bottom: 0px;
+
     font-size: 2rem;
+    text-align: center;
 }
 
 p {
-    margin: 10px 0;
+    margin: 0 0;
 }
 
+.addmargin {
+    margin: 10px 0;
+}
 
 header {
     max-width: 93%;
@@ -44,6 +48,10 @@ header {
     align-items: end;
     justify-content: flex-end;
     padding: 2.5em;
+}
+
+.price {
+    margin-top: 5px;
 }
 
 .languageBtn {
@@ -81,6 +89,7 @@ main {
 h3 {
     font-size: 1.3rem;
     margin-top: 15px;
+    margin-bottom: 5px;
 }
 
 .MenuCategory {
@@ -230,6 +239,9 @@ div.generic {
     background-color: #e07b5f;
 }
 
+.bar {
+    display: none;
+}
 
 @media (max-width:800px) {
     div.generic {
