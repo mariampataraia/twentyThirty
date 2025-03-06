@@ -208,8 +208,8 @@ div.generic {
     background-color: #ce9f53d7;
     color: #313449;
     position: fixed;
-    right: 15px;
-    top: 20px
+    right: 30vw;
+    top: 20px;
 }
 
 .MainMenu:hover {
@@ -247,4 +247,10 @@ div.generic {
     div.generic {
         flex-direction: column;
     }
+
+    .MainMenu {
+        right: 5vw;
+        top: 2vh;
+    }
+
 }
