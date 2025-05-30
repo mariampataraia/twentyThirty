@@ -13,7 +13,8 @@ body {
     background-color: #6E2C3A;
     border: 10px solid #8B5E3C;
     padding: 40px 30px;
-    max-width: 500px;
+    max-width: 80%;
+    width: 500px;
     text-align: center;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
 }
@@ -67,4 +68,11 @@ hr {
 .footer p {
     font-size: 14px;
     margin: 5px 0 0;
+}
+
+@media (min-width: 800px) {
+    .menu-board {
+        margin-top: 35px;
+    }
+
 }
